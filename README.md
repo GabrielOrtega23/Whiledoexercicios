@@ -54,7 +54,23 @@ O laço continua até que numero ultrapasse fim.</p>
 <img width="1186" height="81" alt="image" src="https://github.com/user-attachments/assets/f9b2505d-e16c-4399-99a3-00fa5796f62a" />
 <p>Deploy</p>
 <img width="611" height="83" alt="image" src="https://github.com/user-attachments/assets/ccb44695-5b50-4a64-aa68-837558f39885" />
-
+<h2>Tabuadas dos números até 10</h2>
+<img width="772" height="110" alt="image" src="https://github.com/user-attachments/assets/de14a1a5-6707-41d2-be80-d78931efa6ae" />
+<img width="697" height="81" alt="image" src="https://github.com/user-attachments/assets/72fa0fcd-a54e-4fba-8e2d-763d336403c0" />
+<p>Apenas uma mensagem inicial antes de começar a mostrar os cálculos.</p>
+<img width="650" height="79" alt="image" src="https://github.com/user-attachments/assets/843c002e-763b-4f20-b58a-5c37932f3f64" />
+<p>O do...while garante que o bloco será executado ao menos uma vez.
+<br>
+Dentro do bloco:
+<br>
+Mostra o cálculo da multiplicação (numero x i).
+<br>
+Incrementa i (i++) para passar ao próximo número da tabuada.
+<br>
+A condição while (i <= 10) garante que o laço só termina quando i passar de 10.</p>
+<img width="838" height="234" alt="image" src="https://github.com/user-attachments/assets/0196b3a3-28a8-4209-b6e4-57343ebf8144" />
+<p>Deploy</p>
+<img width="622" height="326" alt="image" src="https://github.com/user-attachments/assets/638ded7a-99ac-47fa-97df-c1938b04c6d6" />
 
 
 
